@@ -1,0 +1,46 @@
+{
+  "user": {
+    "id": 101,
+    "name": "Akash",
+    "email": "akash@example.com",
+    "role": "Software Developer",
+    "active": true
+  },
+  "education": {
+    "degree": "B.E. Computer Science",
+    "university": "Chitkara University",
+    "graduationYear": 2026,
+    "cgpa": 8.73
+  },
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Python",
+    "FastAPI",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Kafka",
+    "Docker"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Task Management System",
+      "technology": ["Spring Boot", "MySQL", "React"],
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "name": "AI Expense Tracker",
+      "technology": ["Flutter", "FastAPI", "MongoDB"],
+      "status": "in_progress"
+    }
+  ],
+  "preferences": {
+    "jobType": "Full-Time",
+    "experience": "Entry-Level",
+    "remote": true,
+    "availableImmediately": true
+  }
+}

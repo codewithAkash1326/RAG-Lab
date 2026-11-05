@@ -1,0 +1,14 @@
+langchain
+langchain-google-genai
+google-genai
+langchain-openrouter
+python-dotenv
+langgraph
+pymupdf
+pypdf
+cohere
+langchain-community
+beautifulsoup4
+langchain-huggingface
+sentence-transformers
+langchain-cohere

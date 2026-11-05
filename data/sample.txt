@@ -1,0 +1,27 @@
+Welcome to the Sample Text File!
+
+This file contains sample information for testing file reading, writing, and processing operations.
+
+About:
+My name is Akash, and I am a Software Developer interested in Java, Spring Boot, Python, FastAPI, and backend development.
+
+Technologies:
+- Java
+- Spring Boot
+- Python
+- FastAPI
+- MySQL
+- MongoDB
+- Redis
+- Kafka
+- Docker
+
+Projects:
+1. Task Management System
+2. AI Expense Tracker
+3. Linkeverse
+4. Microservices Application
+
+This is a sample text file containing multiple lines, paragraphs, and special characters.
+
+End of File.
